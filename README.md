@@ -1,3 +1,5 @@
+https://mp.weixin.qq.com/s/EEA0djB4-NLHPXT4lWd6qQ
+
 # PageLayoutDemo
 一款简单的page切换 空布局、错误布局、加载布局，支持一键配置、定义，不需要xml编写
 
